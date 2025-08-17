@@ -12,9 +12,6 @@ The techniques, payloads, and notes here are meant to:
 - Serve as quick references while practicing on **legal platforms** (HackTheBox, PortSwigger Labs, TryHackMe, etc.)  
 - Document useful resources I find online  
 
-⚠️ **Do not use this information for unauthorized testing or exploitation.** Always practice responsible disclosure and follow the laws of your jurisdiction.
-
-
 ## 📖 References
 I actively rely on and learn from:
 - [OWASP Top 10](https://owasp.org/Top10/)  
